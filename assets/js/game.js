@@ -70,3 +70,7 @@ var fight = function() {
 
 // run fight function to start game
 fight();
+
+//3.2 use loops
+//Pseudocode is a plain-language description of the steps that 
+//an algorithm or application must complete.
