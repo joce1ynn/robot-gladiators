@@ -303,3 +303,8 @@ var enemyInfo = [
 
 /* RUN GAME */
 startGame();
+
+// enemyHealth = Math.floor(Math.random() * 60);
+// Math.floor()向下舍入到最接近的整数
+// Math.random()是0-1的随机数 但不包含0和1
+// enemyHealth将是一个从 0 到 59 的随机整数。
